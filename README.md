@@ -3,7 +3,7 @@
 개인용 한국 사이트 광고 차단 호스트
 personal korean ads hosts for blokada v3
 
-Format :
+Format exmaple:
 ```
-0.0.0.0 google.com
+0.0.0.0 github.com
 ```
