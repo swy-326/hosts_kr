@@ -5,5 +5,5 @@ personal korean ads hosts for blokada v3
 
 Format :
 ```
-0.0.0.0 domain.com
+0.0.0.0 google.com
 ```
