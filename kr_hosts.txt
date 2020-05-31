@@ -1446,3 +1446,4 @@
 0.0.0.0 www9.smartadserver.com
 
 0.0.0.0 blogfiles.pstatic.net
+0.0.0.0 ssl.pstatic.net
