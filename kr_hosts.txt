@@ -22,7 +22,7 @@
 0.0.0.0 dynsrvtyu.com
 0.0.0.0 i0.wp.com
 0.0.0.0 takelnk.com
-0.0.0.0 ssyoutube.com
+0.0.0.0 ssyoutube.com 
 0.0.0.0 veta.naver.com
 0.0.0.0 360.cn
 0.0.0.0 cn360safe.com
