@@ -989,7 +989,6 @@
 0.0.0.0 gamescarousel.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 kr.ads.yimg.com
-0.0.0.0 s.youtube.com
 0.0.0.0 taboola.com
 0.0.0.0 cdn-exchangetoastoven.net
 0.0.0.0 c.googleanalitics.net
