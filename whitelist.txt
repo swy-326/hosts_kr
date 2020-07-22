@@ -1,3 +1,5 @@
+#Energized Ultimate/Unified 기준
+
 0.0.0.0 daumcdn.net #웹툰, 블로그
 0.0.0.0 redirect.viglink.com
 0.0.0.0 cdn.clien.net
@@ -14,3 +16,4 @@
 0.0.0.0 s.youtube.com # 유튜브 기록
 0.0.0.0 thepiratebay.org 
 0.0.0.0 pbs.twimg.com #트위터 카드 표시
+0.0.0.0 gfycat.com
