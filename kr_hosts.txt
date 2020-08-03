@@ -701,6 +701,7 @@
 0.0.0.0 kona24.kontera.com
 0.0.0.0 kong.hankooki.com
 0.0.0.0 korea.isidewith.com
+0.0.0.0 kotaku.xyz
 0.0.0.0 kr.ads.yimg.com
 0.0.0.0 kr.ard.yahoo.com
 0.0.0.0 l.m.naver.com
