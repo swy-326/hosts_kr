@@ -17,3 +17,4 @@
 0.0.0.0 thepiratebay.org 
 0.0.0.0 pbs.twimg.com #트위터 카드 표시
 0.0.0.0 gfycat.com
+0.0.0.0 sdk.imrworldwide.com #라인티비 영상
