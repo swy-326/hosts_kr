@@ -1,5 +1,5 @@
 
-0.0.0.0 zenmxapps.com //mx 플레이어
+0.0.0.0 zenmxapps.com #mx 플레이어
 0.0.0.0 1-ps.googleusercontent.com
 0.0.0.0 1.googlenews.xorg.pl
 0.0.0.0 15.taboola.com
