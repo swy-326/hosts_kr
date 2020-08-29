@@ -18,3 +18,4 @@
 0.0.0.0 pbs.twimg.com #트위터 카드 표시
 0.0.0.0 gfycat.com
 0.0.0.0 cztorrent.net
+0.0.0.0 j.gs #Shorten link
