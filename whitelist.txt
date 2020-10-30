@@ -23,4 +23,4 @@
 0.0.0.0 rarbgproxied.org
 0.0.0.0 unicamp.br
 0.0.0.0 wattpad.com
-
+0.0.0.0 usp.br #novo portal menu
